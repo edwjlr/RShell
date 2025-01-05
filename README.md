@@ -43,7 +43,7 @@ RShell is a custom command-line interpreter designed to mimic the behavior of tr
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/edwjlr/RShell/)
+   git clone https://github.com/edwjlr/RShell/
    cd RShell
    ```
 2. Build the project:
